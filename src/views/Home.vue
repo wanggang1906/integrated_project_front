@@ -1,15 +1,15 @@
 <template>
     <div>
-        <p>user</p>
+        <p>home</p>
     </div>
 </template>
 
 <script>
     export default {
-        name: "User",
+        name: "Home",
         data(){
             return{
-                date: ''
+                date: 'date'
             }
         }
     }
